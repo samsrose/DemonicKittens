@@ -1,0 +1,30 @@
+* {
+  box-sizing: content-box;
+  line-height: 1.25;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ca5f21;
+}
+header, footer {
+  background-color: #ffa96f;
+}
+header {
+  height: 12.5vh;
+  width:100vw;
+  margin: 0;
+  padding: 0;
+  
+}
+main {
+
+}
+aside {
+
+}
+footer {
+  
+}
